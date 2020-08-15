@@ -55,3 +55,15 @@ console.log(nestedObject.person2.address.present_address.city)
 console.log(nestedObject.person2.address.permanent_address)
 console.log(nestedObject.person2.address.permanent_address.city)
 
+
+///Home work for practice
+
+//
+// Object.keys()
+// Object.values()
+// Object.entries()
+// Object.assign()
+// Object.freeze()
+// Object.seal()
+// Object.getPrototypeOf()
+
